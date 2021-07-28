@@ -53,6 +53,11 @@ Autodenominados *Undefiners*, somos personas con diferentes backgrounds y conoci
 
 Durante cinco semanas estuvimos desarrollando este proyecto, trabajando bajo la metodología ágil Scrum.
 
+## ¿Por qué *Undefiners*?
+*Undefined* = Indefinido; que no tiene límites concretos
+
+*Undefiners* = Indefinidores; aquellos que borran los límites
+
 ---
 
 # Tecnologías
@@ -91,12 +96,6 @@ Durante cinco semanas estuvimos desarrollando este proyecto, trabajando bajo la 
 <br />
 
 A continuación, haremos una demostración de las diferentes funcionalidades que están implementadas en el sitio hasta el momento.
-
----
-
-<div style="height: 100%" class="flex flex-col justify-center align-center items-center content-center self-center">
-  <h2 style="text-2xl">¿Preguntas? ¿Comentarios?</h2>
-</div>
 
 ---
 
