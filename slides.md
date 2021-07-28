@@ -14,13 +14,7 @@ lineNumbers: false
 
 # Proyecto Team 42
 
-[Inserte algo que quede bien uwu]
-
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
+Aceleración Alkemy
 
 
 <!--
@@ -32,7 +26,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 # La Organización
 <img src="/assets/logosomos.png" class="float-right h-40 rounded shadow bg-white" />
 
-Para este proyecto, trabajamos con el **Caso ONG** "*Somos Más*". Consiste en una ONG ficticia, creada en 1997, con el objetivo de mejorar la calidad de vida de los habitantes del barrio La Cava, mediante el desarrollo de diversas actividades.
+Para este proyecto, trabajamos con el **Caso ONG** "*Somos Más*". Consiste en una ONG creada en 1997, con el objetivo de mejorar la calidad de vida de los habitantes del barrio La Cava, mediante el desarrollo de diversas actividades.
 
 
 # El Proyecto
@@ -57,6 +51,18 @@ Durante cinco semanas estuvimos desarrollando este proyecto, trabajando bajo la 
 *Undefined* = Indefinido; que no tiene límites concretos
 
 *Undefiners* = Indefinidores; aquellos que borran los límites
+
+---
+
+# Integrantes
+
+* Celeste Cabrera
+* Daniel Rolon
+* Federico Bravin
+* German Lopez
+* Leandro Garassino
+* Nicolás Porcel
+* Peter Damián Gómez
 
 ---
 
