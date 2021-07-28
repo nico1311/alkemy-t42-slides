@@ -23,7 +23,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 ---
 
 # La Organización
-<img src="/assets/logosomos.png" class="float-right h-40 rounded shadow bg-white" />
+<img src="/assets/logosomos.png" class="float-right h-40 ml-2 rounded shadow bg-white" />
 
 Para este proyecto, trabajamos con el **Caso ONG** "*Somos Más*". Consiste en una ONG creada en 1997, con el objetivo de mejorar la calidad de vida de los habitantes del barrio La Cava, mediante el desarrollo de diversas actividades.
 
@@ -40,7 +40,7 @@ Learn more: https://sli.dev/guide/syntax#embedded-styles
 ---
 
 # El equipo
-<img src="/assets/undefiners.png" class="float-right h-40 rounded shadow" />
+<img src="/assets/undefiners.png" class="float-right h-40 ml-2 rounded shadow" />
 
 Autodenominados *Undefiners*, somos personas con diferentes backgrounds y conocimientos, teniendo en común la formación en JavaScript.
 
